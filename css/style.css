@@ -18,8 +18,10 @@ body{
     text-decoration: double;
     color:white;
     padding:0.5em;
-    display:inline-block;
+    display:flex;
+    flex-flow:column;
 }
 .wrapper h2{
-    display: none;
+    display:flex;
+    flex-flow:column;
 }
