@@ -31,3 +31,15 @@ body{
     width:100%;
     font-size: 25px;
 }
+.wrapper a{
+    color:white;
+    text-decoration: none;
+}
+.return{
+    font:bold;
+    text-decoration: double;
+    color:white;
+    padding:1em;
+    font-size: 35px;
+    text-align:left;
+}
